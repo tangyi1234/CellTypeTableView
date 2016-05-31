@@ -20,7 +20,7 @@
                 </subviews>
             </tableViewCellContentView>
             <connections>
-                <outlet property="image" destination="bAE-R2-ecT" id="hNf-zH-s2z"/>
+                <outlet property="images" destination="bAE-R2-ecT" id="zo3-3b-Kw9"/>
             </connections>
         </tableViewCell>
     </objects>

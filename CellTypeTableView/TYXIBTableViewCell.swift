@@ -10,7 +10,8 @@ import UIKit
 
 class TYXIBTableViewCell: UITableViewCell {
 
-    @IBOutlet weak var image: UIImageView!
+    @IBOutlet weak var images: UIImageView!
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
